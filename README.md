@@ -1,8 +1,22 @@
 # AspirationRandomizer
-## A simple program created using TKinter
-This program's functionality is to randomly select from a list of aspirations within Sims 4.
+Program created to help players of Sims 4 randomly select aspirations within the game.
 
-Features:
-  - Generate Button: Selects a random aspiration from selected aspirations
-  - Select All Button: Selects all aspirations
-  - Unselect All Button: Deselects all apirations
+## Installation Instructions
+1. Download and Run AspirationGenerator.exe
+
+## Purpose
+1. Learn check box input handling.
+
+## Tools Used
+1. Tkinter
+2. pyInstaller
+
+## Features
+Generate 
+- Selects a random aspiration from selected aspirations
+
+Select All 
+- Selects all aspirations
+
+Unselect All
+- Deselects all apirations
