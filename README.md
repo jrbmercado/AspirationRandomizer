@@ -1,22 +1,20 @@
-# AspirationRandomizer
-Program created to help players of Sims 4 randomly select aspirations within the game.
+# Sims 4 Aspiration Randomizer
 
-## Installation Instructions
-1. Download and Run AspirationGenerator.exe
+A quick tool to randomly select asprations for challenge playthroughs of Sims 4.
+## Demo
 
-## Purpose
-1. Learn check box input handling.
-
-## Tools Used
-1. Tkinter
-2. pyInstaller
+![sims4](https://user-images.githubusercontent.com/60119119/186044471-6f0dd5ca-6a05-4cda-95cd-4a763b55ee79.gif)
 
 ## Features
-Generate 
-- Selects a random aspiration from selected aspirations
 
-Select All 
-- Selects all aspirations
+- Check/Uncheck All 
+- Aspirations from 12 Expansion Packs
 
-Unselect All
-- Deselects all apirations
+
+## Installation
+
+Download the project as a .zip and run the .py script using Python3. Otherwise, you can also run the .exe file included with the project.
+    
+## Lessons Learned
+
+In this project, I learned how to use Python's built in Tk Interface to create a interactive GUI to receive and display outputs to the user. 
